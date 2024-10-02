@@ -1,4 +1,5 @@
 # lcm
+
 The project contains files for solving a life-cycle model using dynamic programming to find optimal consumption and portfolio choice.
 
 Improvements have been made with respect to the help functions.
